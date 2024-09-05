@@ -36,7 +36,7 @@ jobs:
         echo '  olikraus/U8g2 @ ^2.28.8' >>platformio.ini
         echo '  olikraus/U8g2 @ ^2.28.8' >>platformio.ini
         echo '  Wire' >>platformio.ini
-        echo '  adafruit/Adafruit BusIO @ 1.13.2' >>platformio.ini
+        echo '  adafruit/Adafruit BusIO ' >>platformio.ini
         echo '  adafruit/Adafruit ADS1X15 @ 2.4.0' >>platformio.ini
         echo '  adafruit/Adafruit Unified Sensor' >>platformio.ini
         
